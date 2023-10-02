@@ -1,0 +1,2 @@
+# Ignore .zip files to avoid issues when downloading content. 
+.zip
